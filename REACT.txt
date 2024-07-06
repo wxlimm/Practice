@@ -1,0 +1,11 @@
+npm create vite@latest
+Project name: .
+Package name: flask
+Framework >> React
+Variant   >> Javascript + SWC
+
+npm i
+npm run dev
+
+For flask, function arrow is important
+onEvent = {() => your event}
