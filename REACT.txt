@@ -9,3 +9,5 @@ npm run dev
 
 For flask, function arrow is important
 onEvent = {() => your event}
+
+Can separate each component into a different jsx file, such as newList.jsx, newListItem.jsx etc.
